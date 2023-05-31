@@ -1,0 +1,11 @@
+{
+"firstname" : "VPP",
+"lastname" : "nvvppp",
+"totalprice" : 111,
+"depositpaid" : true,
+"bookingdates" : {
+"checkin" : "2023-05-01",
+"checkout" : "2023-05-02"
+},
+"additionalneeds" : "Breakfast"
+}
